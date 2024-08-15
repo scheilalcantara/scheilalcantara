@@ -1,4 +1,4 @@
-## <img align="center" alt="icon-hornet" height="50" widht="50"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e7d01ce-8c31-45b6-904d-364d6b2602df/ddad9l5-8c0f1dd5-1345-40c6-96cf-3f1e123b2498.png/v1/fit/w_510,h_630/hornet___hollow_knight_by_breeky_ddad9l5-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvNGU3ZDAxY2UtOGMzMS00NWI2LTkwNGQtMzY0ZDZiMjYwMmRmXC9kZGFkOWw1LThjMGYxZGQ1LTEzNDUtNDBjNi05NmNmLTNmMWUxMjNiMjQ5OC5wbmciLCJ3aWR0aCI6Ijw9NTEwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7j-idDLauhgHkfqQI-qp_OwqUhfzZS-0YGjOdBwtsVk"/> Oi, eu sou a Scheila Alcântara!
+## <img align="center" alt="icon-hornet" height="50" widht="50"  src= "https://i.pinimg.com/originals/60/3d/ea/603dea89cc2aa6d6dc78e4a7ede7ed13.gif" /> Oi, eu sou a Scheila Alcântara!
 
 <br>
 
