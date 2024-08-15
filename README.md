@@ -1,4 +1,4 @@
-## <img align="center" alt="icon-hornet" height="50" widht="50"  src= "https://i.pinimg.com/originals/60/3d/ea/603dea89cc2aa6d6dc78e4a7ede7ed13.gif" /> Oi, eu sou a Scheila Alcântara!
+## <img align="center" alt="icon-hornet" height="80" widht="80"  src= "https://i.pinimg.com/originals/60/3d/ea/603dea89cc2aa6d6dc78e4a7ede7ed13.gif" /> Oi, eu sou a Scheila Alcântara!
 
 <br>
 
