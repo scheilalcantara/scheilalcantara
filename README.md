@@ -1,12 +1,12 @@
-## <img align="center" alt="icon-hornet" height="140" widht="140"  src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRwNzBmb2ZkOXpwcjQwanNhYWpqa3BsYmZ2aWtiNGIzeG1xdWd2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.webp" /> Oi, eu sou a Scheila Alcântara!
+# <img align="center" alt="icon-hornet" height="140" widht="140"  src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRwNzBmb2ZkOXpwcjQwanNhYWpqa3BsYmZ2aWtiNGIzeG1xdWd2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iLi3bw9vgQp5Kd5owP/giphy.webp" /> Hello, I´m Scheila Alcântara!
 
 <br>
 
-👾20 anos
+### 👾20 years
 
 <br>
 
-📚Estudante de Sistemas de Informação
+### 📚Information Systems student
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-### 🛠️Tecnologias e Ferramentas:
+### 🛠️Technologies and Tools:
 
 <div>
   <img align="center" alt="Scheila-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
